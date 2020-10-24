@@ -1,1 +1,1 @@
-# about
+# About rigami project
