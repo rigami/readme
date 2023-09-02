@@ -1,3 +1,7 @@
+⚠️ This project is deprecated. I have not enough time and effort for maintenance of this project.
+
+I can recomend to move [simple rigami](https://github.com/danilkinkin/rigami) or [minim](https://github.com/avinayak/minim) for backgrounds and Notion or Obsidian for store your bookmarks
+
 ![Logo](resources/gitHub_readme_header.png)
 
 
